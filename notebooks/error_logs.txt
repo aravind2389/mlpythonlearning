@@ -1,0 +1,12 @@
+The following files/folders have not been downloaded0. MY_BACKUP/terraform-on-azure-cloud-main/31-Azure-Application-Gateway-SSL-SelfSigned-KeyVault/terraform-manifests/custom-error-pages/error.html
+1. MY_BACKUP/terraform-on-azure-cloud-main/31-Azure-Application-Gateway-SSL-SelfSigned-KeyVault/terraform-manifests/custom-error-pages/index.html
+2. MY_BACKUP/terraform-on-azure-cloud-main/31-Azure-Application-Gateway-SSL-SelfSigned-KeyVault/terraform-manifests/ssh-keys/terraform-azure.pem
+3. MY_BACKUP/terraform-on-azure-cloud-main/31-Azure-Application-Gateway-SSL-SelfSigned-KeyVault/terraform-manifests/ssh-keys/terraform-azure.pub
+4. MY_BACKUP/terraform-on-azure-cloud-main/31-Azure-Application-Gateway-SSL-SelfSigned-KeyVault/terraform-manifests/ssl-self-signed/httpd.crt
+5. MY_BACKUP/terraform-on-azure-cloud-main/31-Azure-Application-Gateway-SSL-SelfSigned-KeyVault/terraform-manifests/ssl-self-signed/httpd.key
+6. MY_BACKUP/terraform-on-azure-cloud-main/31-Azure-Application-Gateway-SSL-SelfSigned-KeyVault/terraform-manifests/ssl-self-signed/httpd.pfx
+7. MY_BACKUP/terraform-on-azure-cloud-main/31-Azure-Application-Gateway-SSL-SelfSigned-KeyVault/terraform-manifests/c10-02-storage-account.tf
+8. MY_BACKUP/terraform-on-azure-cloud-main/33-Azure-MySQL-Single-Server/terraform-manifests/custom-error-pages/403.html
+9. MY_BACKUP/terraform-on-azure-cloud-main/33-Azure-MySQL-Single-Server/terraform-manifests/custom-error-pages/502.html
+10. MY_BACKUP/terraform-on-azure-cloud-main/33-Azure-MySQL-Single-Server/terraform-manifests/custom-error-pages/error.html
+11. MY_BACKUP/terraform-on-azure-cloud-main/33-Azure-MySQL-Single-Server/terraform-manifests/custom-error-pages/index.html
